@@ -1,0 +1,10 @@
+package sounds.carhorn;
+
+import sounds.SoundEmitter;
+
+public class CarHorn implements SoundEmitter {
+    @Override
+    public void makeSound() {
+        System.out.println("CarHorn: Биииб! Бииб!");
+    }
+}
