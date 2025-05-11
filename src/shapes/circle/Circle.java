@@ -13,4 +13,9 @@ public class Circle extends Shape {
     public double area() {
         return Math.PI * radius * radius;
     }
+
+    @Override
+    public void displayArea() {
+        System.out.println("Площадь круга: " + area());
+    }
 }

@@ -4,6 +4,6 @@ public abstract class Shape {
     public abstract double area();
 
     public void displayArea() {
-        System.out.println("Площадь: " + area());
+        System.out.println("Площадь треугольника: " + area());
     }
 }

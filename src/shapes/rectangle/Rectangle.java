@@ -15,4 +15,9 @@ public class Rectangle extends Shape {
     public double area() {
         return width * height;
     }
+
+    @Override
+    public void displayArea() {
+        System.out.println("Площадь прямоугольника: " + area());
+    }
 }

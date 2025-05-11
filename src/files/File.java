@@ -1,7 +1,7 @@
 package files;
 
 public abstract class File {
-    protected String name;
+    private  String name;
 
     public File(String name) {
         this.name = name;
