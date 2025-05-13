@@ -9,6 +9,6 @@ public class Bicycle extends Transport {
 
     @Override
     public void move() {
-        System.out.println("Велосипед развивает скорость " + speed + " км/ч по ровной дороге.");
+        System.out.println("Велосипед развивает скорость " + getSpeed() + " км/ч по ровной дороге.");
     }
 }
