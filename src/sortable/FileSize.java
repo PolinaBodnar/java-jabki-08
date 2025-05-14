@@ -1,6 +1,4 @@
-package sortable.models;
-
-import sortable.Sortable;
+package sortable;
 
 public class FileSize implements Sortable {
     private long size;

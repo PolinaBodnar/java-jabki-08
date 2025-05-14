@@ -1,8 +1,4 @@
-package sortable.main;
-
-import sortable.Sortable;
-import sortable.models.Person;
-import sortable.models.FileSize;
+package sortable;
 
 import java.util.Arrays;
 

@@ -1,6 +1,4 @@
-package transport.air;
-
-import transport.Transport;
+package transport;
 
 public class Airplane extends Transport {
     public Airplane(int speed) {

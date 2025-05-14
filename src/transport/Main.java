@@ -1,8 +1,4 @@
-package transport.main;
-
-import transport.Transport;
-import transport.land.Bicycle;
-import transport.air.Airplane;
+package transport;
 
 public class Main {
     public static void main(String[] args) {

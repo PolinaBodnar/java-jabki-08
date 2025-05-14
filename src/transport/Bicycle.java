@@ -1,6 +1,4 @@
-package transport.land;
-
-import transport.Transport;
+package transport;
 
 public class Bicycle extends Transport {
     public Bicycle(int speed) {

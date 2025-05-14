@@ -1,9 +1,4 @@
-package sounds.main;
-
-import sounds.SoundEmitter;
-import sounds.dog.Dog;
-import sounds.alarmclock.AlarmClock;
-import sounds.carhorn.CarHorn;
+package sounds;
 
 public class Main {
     public static void playAllSounds(SoundEmitter[] devices) {

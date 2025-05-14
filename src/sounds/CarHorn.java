@@ -1,6 +1,4 @@
-package sounds.carhorn;
-
-import sounds.SoundEmitter;
+package sounds;
 
 public class CarHorn implements SoundEmitter {
     @Override

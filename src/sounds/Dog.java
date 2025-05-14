@@ -1,6 +1,4 @@
-package sounds.dog;
-
-import sounds.SoundEmitter;
+package sounds;
 
 public class Dog implements SoundEmitter {
     @Override

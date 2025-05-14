@@ -1,6 +1,4 @@
-package files.text;
-
-import files.File;
+package files;
 
 public class Text extends File {
     private String content;

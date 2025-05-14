@@ -1,6 +1,4 @@
-package files.image;
-
-import files.File;
+package files;
 
 public class Image extends File {
     private int width;

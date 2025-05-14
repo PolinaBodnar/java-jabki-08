@@ -1,8 +1,4 @@
-package files.main;
-
-import files.File;
-import files.text.Text;
-import files.image.Image;
+package files;
 
 public class Main {
     public static long totalSize(File[] files) {

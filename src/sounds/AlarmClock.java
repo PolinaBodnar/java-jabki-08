@@ -1,6 +1,4 @@
-package sounds.alarmclock;
-
-import sounds.SoundEmitter;
+package sounds;
 
 public class AlarmClock implements SoundEmitter {
     @Override

@@ -1,6 +1,4 @@
-package sortable.models;
-
-import sortable.Sortable;
+package sortable;
 
 public class Person implements Sortable {
     private int age;

@@ -1,8 +1,4 @@
-package shapes.main;
-
-import shapes.Shape;
-import shapes.circle.Circle;
-import shapes.rectangle.Rectangle;
+package shapes;
 
 public class Main {
     public static void main(String[] args) {

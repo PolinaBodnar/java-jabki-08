@@ -1,6 +1,4 @@
-package shapes.rectangle;
-
-import shapes.Shape;
+package shapes;
 
 public class Rectangle extends Shape {
     private double width;
