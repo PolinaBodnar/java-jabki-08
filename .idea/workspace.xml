@@ -5,23 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0f8eb390-e6ed-458a-b004-81f30859638f" name="Changes" comment="Интерфейсы и абстрактные классы. Домашнее задание №8">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/files/image/Image.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/files/Image.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/files/main/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/files/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/files/text/Text.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/files/Text.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/shapes/circle/Circle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/shapes/Circle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/shapes/main/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/shapes/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/shapes/rectangle/Rectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/shapes/Rectangle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sortable/main/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sortable/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sortable/models/FileSize.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sortable/FileSize.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sortable/models/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sortable/Person.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sounds/alarmclock/AlarmClock.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sounds/AlarmClock.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sounds/carhorn/CarHorn.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sounds/CarHorn.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sounds/dog/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sounds/Dog.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sounds/main/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sounds/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/transport/air/Airplane.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/transport/Airplane.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/transport/land/Bicycle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/transport/Bicycle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/transport/main/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/transport/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,7 +60,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "#1 on develop",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/Asus/Downloads/java-jabki-08-e52c5ff06e11c4cdf945bd613ece792cc0720141/java-jabki-08-e52c5ff06e11c4cdf945bd613ece792cc0720141"
+    "last_opened_file_path": "C:/Users/Asus/IdeaProjects/java-jabki-06"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -225,7 +209,15 @@
       <option name="project" value="LOCAL" />
       <updated>1747220330567</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Интерфейсы и абстрактные классы. Домашнее задание №8">
+      <option name="closed" value="true" />
+      <created>1747222142546</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1747222142546</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
